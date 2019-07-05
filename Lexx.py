@@ -8,7 +8,7 @@ tmpDir = scriptDir + "/lexx-tmp"
 modServices = []
 modResponders = []
 mods = []
-thisMod = 0
+thisMod = 1
 debug = 0
 
 #Load Plugins
